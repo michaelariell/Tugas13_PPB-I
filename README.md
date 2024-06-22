@@ -1,1 +1,1 @@
-MyArtist_App
+Flutter_Music_App
